@@ -12,7 +12,7 @@
 **Program can analysis DOS Header, Image_File _Header, Image_Optional_Header, Image_Data_Directory, Section Table, Image_Import_Directory & Image_Export_Directory**
 
 ### Notice
-+ **You Modify change the macro in the front of code to  specify which file will be opened.**
++ **You can modify the macro in the front of code to  specify which file will be opened.**
 + **The PE file you want to analysis must be 32 bit.**
 
 ## Run 
