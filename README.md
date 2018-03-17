@@ -16,7 +16,7 @@
 + **The PE file you want to analysis must be 32 bit.**
 
 ## Run 
-![](https://github.com/WananpIG/Analysis-PE-File-Structure/tree/master/_image/README/17-43-52.jpg )
-![](https://github.com/WananpIG/Analysis-PE-File-Structure/tree/master/_image/README/17-44-08.jpg )
-![](https://github.com/WananpIG/Analysis-PE-File-Structure/tree/master/_image/README/17-44-22.jpg )
-![](https://github.com/WananpIG/Analysis-PE-File-Structure/tree/master/_image/README/17-44-38.jpg )
+![](https://github.com/WananpIG/Analysis-PE-File-Structure/tree/master/_image/README/17-43-52.jpg)
+![](https://github.com/WananpIG/Analysis-PE-File-Structure/tree/master/_image/README/17-44-08.jpg)
+![](https://github.com/WananpIG/Analysis-PE-File-Structure/tree/master/_image/README/17-44-22.jpg)
+![](https://github.com/WananpIG/Analysis-PE-File-Structure/tree/master/_image/README/17-44-38.jpg)
